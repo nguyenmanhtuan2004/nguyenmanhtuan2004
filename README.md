@@ -6,6 +6,7 @@ Mình là **Nguyễn Mạnh Tuấn**, sinh viên năm 4 chuyên ngành **Khoa h�
 - 🤖 Trí tuệ nhân tạo (AI)
 - 📊 Machine Learning
 - 📈 Khoa học dữ liệu (Data Science)
+- 🌐 Phát triển ứng dụng
 
 🛠️ Trong quá trình học tập, mình đã thực hiện một số đồ án nổi bật:
 
