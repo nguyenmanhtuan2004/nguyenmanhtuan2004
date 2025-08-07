@@ -1,22 +1,22 @@
-## 👋 Xin chào! 
+## 👋 Hello!
 
-Mình là **Nguyễn Mạnh Tuấn**, sinh viên năm 4 chuyên ngành **Khoa học Dữ liệu** tại **Đại học Ngoại ngữ và Tin học TP.HCM (HUFLIT)**.
+I'm **Nguyen Manh Tuan**, a 4th-year student majoring in **Data Science** at **Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)**.
 
-🎯 Mình có niềm đam mê với các lĩnh vực:
-- 🤖 Trí tuệ nhân tạo (AI)
+🎯 I have a strong passion for:
+- 🤖 Artificial Intelligence (AI)
 - 📊 Machine Learning
-- 📈 Khoa học dữ liệu (Data Science)
-- 🌐 Phát triển ứng dụng
+- 📈 Data Science
+- 🌐 Application Development
 
-🛠️ Trong quá trình học tập, mình đã thực hiện một số đồ án nổi bật:
+🛠️ During my studies, I have worked on several notable projects:
 
-- 🔢 [**MathQA_MAS**](https://github.com/nguyenmanhtuan2004/MathQA_MAS): Hệ thống hỏi đáp toán học tự động sử dụng Machine Reading Comprehension.
-- 🧬 [**Breast_Cancer_Detection**](https://github.com/nguyenmanhtuan2004/Breast_Cancer_Detection): Ứng dụng phát hiện ung thư vú dựa trên các thuật toán học máy.
-- 🌿 [**Plant_Disease_Detection**](https://github.com/nguyenmanhtuan2004/Plant_Disease_Detection): Nhận diện bệnh trên cây trồng bằng Deep Learning.
-- 🛍️ [**ecommerceprojectHUFLIT24**](https://github.com/nguyenmanhtuan2004/ecommerceprojectHUFLIT24): Website bán hàng thời trang phát triển bằng .NET MVC trong đồ án môn học tại HUFLIT.
-- 🚕 [**BigDataProject**](https://github.com/nguyenmanhtuan2004/bigdataproject): Hệ thống phân phối lại xe taxi trực tuyến sử dụng Apache Kafka. Ứng dụng kỹ thuật xử lý dữ liệu lớn để phân phối tài xế taxi theo vị trí người dùng.
+- 🔢 [**MathQA_MAS**](https://github.com/nguyenmanhtuan2004/MathQA_MAS): A math question-answering system using Machine Reading Comprehension.
+- 🧬 [**Breast_Cancer_Detection**](https://github.com/nguyenmanhtuan2004/Breast_Cancer_Detection): A breast cancer detection app using machine learning algorithms.
+- 🌿 [**Plant_Disease_Detection**](https://github.com/nguyenmanhtuan2004/Plant_Disease_Detection): Identifying plant diseases from leaf images using deep learning.
+- 🛍️ [**ecommerceprojectHUFLIT24**](https://github.com/nguyenmanhtuan2004/ecommerceprojectHUFLIT24): A fashion e-commerce website built with .NET MVC for a course project at HUFLIT.
+- 🚕 [**BigDataProject**](https://github.com/nguyenmanhtuan2004/bigdataproject): An online taxi reallocation system using Apache Kafka and big data processing techniques to assign drivers based on user location.
 
-## 🛠️ Công nghệ & Kỹ năng
+## 🛠️ Technologies & Skills
 
 ### 🔹 Data Analytics
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,7 +33,6 @@ Mình là **Nguyễn Mạnh Tuấn**, sinh viên năm 4 chuyên ngành **Khoa h�
 ### 🔹 Database
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-
 ### 🔹 Backend
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -48,6 +47,4 @@ Mình là **Nguyễn Mạnh Tuấn**, sinh viên năm 4 chuyên ngành **Khoa h�
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
-
-📫 Rất vui khi được kết nối và học hỏi cùng mọi người!
+📫 I'm excited to connect and learn with others!
